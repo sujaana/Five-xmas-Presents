@@ -8,9 +8,9 @@
     
     1. White sqaures are unclaimed present locations.
     2. Can not change the colour of pre-existing present. 
-    3. Mis clicking or clicking a claimed sqaure may result
+    3. Misclicking or clicking a claimed sqaure may result
        in a loss of a turn. 
-    4. Presents can be placed anywhere on th game board.
+    4. Presents can be placed anywhere on the game board.
     
     
 """
